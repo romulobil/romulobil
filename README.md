@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rômulo Albuquerque
-- 👀 I’m interested in IT infrastructure and linux system administration
+- 👀 I’m interested in IT infrastructure and linux system administration and DevOps culture
 - 🌱 I’m currently learning DevOps world technologies 
 - 📫 How to reach me: 
 - romulobil@gmail.com
